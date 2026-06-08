@@ -47,8 +47,8 @@ To implement a **Behaviour Pattern** in Java for managing article versions using
 ```java id="q7n5bx"
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
