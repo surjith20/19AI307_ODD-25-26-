@@ -50,8 +50,8 @@ To implement **SOLID Principles** in Java using classes, object-oriented design,
 ```java id="k5v8qx"
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
