@@ -33,8 +33,8 @@ To create and use methods in Java for checking whether a number is even or odd.
 ```java id="mtds01"
 /*
 Program to implement a Methods using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
