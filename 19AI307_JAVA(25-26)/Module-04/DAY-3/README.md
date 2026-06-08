@@ -35,8 +35,8 @@ To implement the concept of **Composition** in Java using one class object insid
 ```java id="f7m2kp"
 /*
 Program to implement a Composition Concepts in Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
