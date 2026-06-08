@@ -34,8 +34,8 @@ To study and implement array concepts in Java and calculate the average of array
 ```java id="q9k2mx"
 /*
 Program to implement a Array concept using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
