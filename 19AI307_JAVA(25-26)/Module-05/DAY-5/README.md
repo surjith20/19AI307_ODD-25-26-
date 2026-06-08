@@ -46,8 +46,8 @@ To implement **multithreading in Java using ExecutorService** and understand con
 ```java id="x5m9qk"
 /*
 Program to implement a Synchronization concept using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number: 21222304300
 */
 ```
 
