@@ -36,8 +36,8 @@ To implement the concept of **Inner Class** in Java and access its methods using
 ```java id="rf9q1q"
 /*
 Program to implement a InnerClass using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
