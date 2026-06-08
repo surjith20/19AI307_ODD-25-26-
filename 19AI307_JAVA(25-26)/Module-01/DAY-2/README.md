@@ -30,8 +30,8 @@ To study and implement conditional statements in Java using if, else if, and els
 ```java id="7t2qna"
 /*
 Program to implement a conditional statement using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
