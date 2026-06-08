@@ -34,8 +34,8 @@ To study and implement looping statements in Java using the `while` loop.
 ```java id="y8p2fv"
 /*
 Program to implement a Looping Statement using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
