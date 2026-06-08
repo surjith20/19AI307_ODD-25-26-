@@ -34,8 +34,8 @@ To create a Java program that demonstrates variable scope and the use of constru
 ```java id="vsc01"
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
