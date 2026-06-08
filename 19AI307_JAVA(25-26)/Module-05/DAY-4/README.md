@@ -36,8 +36,8 @@ To implement the concept of **Thread Priority in Java** by modifying and display
 ```java id="v7m2kp"
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number: 21222304300
 */
 ```
 
