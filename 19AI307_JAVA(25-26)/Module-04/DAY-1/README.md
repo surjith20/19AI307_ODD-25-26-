@@ -51,8 +51,8 @@ To implement **Exception Handling** in Java for handling null values and prevent
 ```java id="8t7x2v"
 /*
 Program to implement a Exception Handling using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
