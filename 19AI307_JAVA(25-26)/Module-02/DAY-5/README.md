@@ -37,8 +37,8 @@ To create a Java program that demonstrates the use of access modifiers in Java.
 ```java id="am01"
 /*
 Program to implement a Access Modifiers using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
