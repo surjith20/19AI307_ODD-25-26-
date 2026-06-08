@@ -47,8 +47,8 @@ To implement **Serialization and Deserialization** in Java using file streams to
 ```java id="t9m4zp"
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  21222304300
 */
 ```
 
