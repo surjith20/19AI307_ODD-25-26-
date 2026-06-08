@@ -31,8 +31,8 @@ To study and implement String handling and built-in functions in Java.
 ```java id="d3n8qx"
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
