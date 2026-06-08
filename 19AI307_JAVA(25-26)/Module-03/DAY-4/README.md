@@ -44,8 +44,8 @@ To implement **Interface** concepts in Java using multiple classes that provide 
 ```java id="6z4fwb"
 /*
 Program to implement a Interface using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
