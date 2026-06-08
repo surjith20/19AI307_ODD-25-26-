@@ -35,8 +35,8 @@ To create a Java program using access specifiers with private data members and p
 ```java id="acs01"
 /*
 Program to implement a Access Specifiers using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
