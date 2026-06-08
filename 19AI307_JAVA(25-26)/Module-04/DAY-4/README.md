@@ -59,8 +59,8 @@ To implement a **Design Pattern** in Java using interfaces, classes, and state-b
 ```java id="w4z8pk"
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
