@@ -34,8 +34,8 @@ To implement **Polymorphism** in Java using method overloading.
 ```java
 /*
 Program to implement a Polymorphism using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
