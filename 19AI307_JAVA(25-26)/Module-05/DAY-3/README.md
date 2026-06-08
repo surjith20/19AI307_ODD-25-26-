@@ -39,8 +39,8 @@ To implement **file handling concepts in Java using input processing**, where sp
 ```java id="c5m8tr"
 /*
 Program to implement a File Handling using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  21222304300
 */
 ```
 
