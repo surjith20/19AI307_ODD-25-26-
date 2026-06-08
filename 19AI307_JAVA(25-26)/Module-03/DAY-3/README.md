@@ -39,8 +39,8 @@ To implement **Abstraction** in Java using abstract classes and method overridin
 ```java id="yb3b3k"
 /*
 Program to implement a Abstraction using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
