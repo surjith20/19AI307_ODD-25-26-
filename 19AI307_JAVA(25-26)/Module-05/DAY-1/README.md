@@ -47,8 +47,8 @@ To implement file handling in Java using `FileWriter` for creating a file and wr
 ```java id="k8x5mr"
 /*
 Program to implement a InputStreamReader using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
