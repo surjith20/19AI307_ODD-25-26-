@@ -27,8 +27,8 @@ To study and implement Java programming concepts involving data types, variables
 ```java
 /*
 Program to implement variables and Operators using Java
-Developed by: JANARTHANAN K
-RegisterNumber:  212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
