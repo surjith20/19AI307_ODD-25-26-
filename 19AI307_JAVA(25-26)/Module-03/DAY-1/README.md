@@ -44,8 +44,8 @@ To implement **Inheritance and Aggregation** concepts using Java classes and met
 ```java
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
