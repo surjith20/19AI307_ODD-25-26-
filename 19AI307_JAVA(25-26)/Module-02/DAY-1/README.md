@@ -33,8 +33,8 @@ To create a class and object in Java and access class members using an object.
 ```java
 /*
 Program to implement a Class and Objects using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
