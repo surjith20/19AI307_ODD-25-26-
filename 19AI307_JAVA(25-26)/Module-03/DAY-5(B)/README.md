@@ -43,8 +43,8 @@ To implement the concept of **Wrapper Class** in Java using string conversion an
 ```java id="j7n2mr"
 /*
 Program to implement a Wrapper Class using Java
-Developed by: JANARTHANAN K
-RegisterNumber: 212223040072
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 ```
 
